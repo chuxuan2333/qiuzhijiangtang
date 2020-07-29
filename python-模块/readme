@@ -1,0 +1,10 @@
+模块的发布与安装说明：
+1. 在模块目录下创建setup.py文件并写入以下代码：
+from distutils.core import setup
+setup(name='module_name',version='1.0',description='XXX',
+      author='XXX',py_modules=['test1','test2'，'test3'])
+
+
+2. 创建模块，在模块目录终端下执行python setup.py build命令
+
+3. 生成压缩包, 执行python setup.py sdist命令
