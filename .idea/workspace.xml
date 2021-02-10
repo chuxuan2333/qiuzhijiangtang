@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="" />
+    <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python-应用/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-数据结构/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-数据结构/python-list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/MSI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/MSI.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1djPNsyo43dNN3JCRFUSrbae7ng" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,17 +43,17 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WorkSpace\求知讲堂\python-文件操作" />
+      <recent name="F:\WorkSpace\求知讲堂\python-常见问题" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\WorkSpace\求知讲堂\python-装饰器" />
       <recent name="F:\WorkSpace\求知讲堂\python_class\files" />
       <recent name="F:\Anaconda3\envs\python35\Lib\site-packages" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\WorkSpace\求知讲堂\python-文件操作" />
-      <recent name="F:\WorkSpace\求知讲堂\python-常见问题" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.python-深浅拷贝">
+  <component name="RunManager" selected="Python.光遇乐谱制作">
     <configuration name="实例-飞机大战" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class-装饰器实现GET-SET" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="光遇乐谱制作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,32 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_类" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-应用" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_类/class-装饰器实现GET-SET.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="python-闭包 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="求知讲堂" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-装饰器" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-装饰器/python-闭包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python-pymysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python-类装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +146,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-数据库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-装饰器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-数据库/python-pymysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-装饰器/python-类装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python-list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="求知讲堂" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-数据结构" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-数据结构/python-list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,19 +181,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.python-闭包 (1)" />
-      <item itemvalue="Python.python-类装饰器" />
-      <item itemvalue="Python.python-pymysql" />
-      <item itemvalue="Python.class-装饰器实现GET-SET" />
+      <item itemvalue="Python.实例-飞机大战" />
       <item itemvalue="Python.python-深浅拷贝" />
+      <item itemvalue="Python.python-list" />
+      <item itemvalue="Python.python-类装饰器" />
+      <item itemvalue="Python.光遇乐谱制作" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python-深浅拷贝" />
+        <item itemvalue="Python.光遇乐谱制作" />
         <item itemvalue="Python.python-类装饰器" />
-        <item itemvalue="Python.class-装饰器实现GET-SET" />
-        <item itemvalue="Python.python-pymysql" />
-        <item itemvalue="Python.python-闭包 (1)" />
+        <item itemvalue="Python.python-深浅拷贝" />
+        <item itemvalue="Python.python-list" />
+        <item itemvalue="Python.实例-飞机大战" />
       </list>
     </recent_temporary>
   </component>
@@ -202,89 +211,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="0" key="#Inspections" timestamp="1595878076933">
+    <state width="1511" height="182" key="GridCell.Tab.0.bottom" timestamp="1612950913899">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="522" y="0" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1595878076933" />
-    <state x="447" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595864206364">
+    <state width="1511" height="182" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612950913899" />
+    <state width="1511" height="182" key="GridCell.Tab.0.center" timestamp="1612950913898">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="447" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1592939553994" />
-    <state x="447" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1595864206364" />
-    <state x="397" y="205" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595868944821">
+    <state width="1511" height="182" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1612950913898" />
+    <state width="1511" height="182" key="GridCell.Tab.0.left" timestamp="1612950913898">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="397" y="205" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1595868944821" />
-    <state x="847" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595529462705">
+    <state width="1511" height="182" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1612950913898" />
+    <state width="1511" height="182" key="GridCell.Tab.0.right" timestamp="1612950913899">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="847" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1595529462705" />
-    <state x="689" y="117" key="FileChooserDialogImpl" timestamp="1596011840280">
+    <state width="1511" height="182" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1612950913899" />
+    <state x="503" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612950967309">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="689" y="117" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596011840280" />
-    <state width="686" height="277" key="GridCell.Tab.0.bottom" timestamp="1595970161600">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="704" height="187" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1593158646242" />
-    <state width="686" height="277" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595970161600" />
-    <state width="686" height="277" key="GridCell.Tab.0.center" timestamp="1595970161599">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="704" height="187" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1593158646242" />
-    <state width="686" height="277" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595970161599" />
-    <state width="686" height="277" key="GridCell.Tab.0.left" timestamp="1595970161599">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="704" height="187" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1593158646240" />
-    <state width="686" height="277" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595970161599" />
-    <state width="686" height="277" key="GridCell.Tab.0.right" timestamp="1595970161600">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="704" height="187" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1593158646242" />
-    <state width="686" height="277" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595970161600" />
-    <state width="686" height="251" key="GridCell.Tab.1.bottom" timestamp="1595965789975">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="686" height="251" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595965789975" />
-    <state width="686" height="251" key="GridCell.Tab.1.center" timestamp="1595965789974">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="686" height="251" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1595965789974" />
-    <state width="686" height="251" key="GridCell.Tab.1.left" timestamp="1595965789974">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="686" height="251" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1595965789974" />
-    <state width="686" height="251" key="GridCell.Tab.1.right" timestamp="1595965789975">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="686" height="251" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1595965789975" />
-    <state x="383" y="0" key="SettingsEditor" timestamp="1596006562760">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="383" y="0" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1592938239934" />
-    <state x="383" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596006562760" />
-    <state x="715" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1594272677832">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="715" y="196" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1594272677832" />
-    <state x="451" y="97" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595958945487">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="451" y="97" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1595958945487" />
-    <state x="337" y="0" width="975" height="834" key="find.popup" timestamp="1594912596402">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="337" y="0" width="975" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1594912596402" />
-    <state x="866" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1594892988846">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="866" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1594892988846" />
-    <state x="230" y="0" width="840" height="832" key="search.everywhere.popup" timestamp="1595963725199">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="718" y="-1" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1592937939647" />
-    <state x="230" y="0" width="840" height="832" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1595963725199" />
+    <state x="503" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1612950967309" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
