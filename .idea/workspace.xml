@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="光遇乐谱制作">
-      <change afterPath="$PROJECT_DIR$/python-应用/快捷键" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-数据结构/python-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-数据结构/python-list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5488da5a-58d1-45f9-8b6b-15bee388feee" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/chuxuan2333/" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1djPNsyo43dNN3JCRFUSrbae7ng" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/python-装饰器" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -197,7 +204,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\MSI\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -214,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612950999101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="光遇乐谱制作">
+      <created>1613241381225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613241381225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -247,14 +261,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="815" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1613240852192" />
-    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1612951098056">
+    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613241458510">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1612951098056" />
-    <state x="147" y="66" key="DiffContextDialog" timestamp="1612951094117">
+    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613241458510" />
+    <state x="147" y="66" width="1228" height="695" key="DiffContextDialog" timestamp="1613241451136">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="147" y="66" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1612951094117" />
+    <state x="147" y="66" width="1228" height="695" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1613241451136" />
     <state width="807" height="181" key="GridCell.Tab.0.bottom" timestamp="1613240709241">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -271,14 +285,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="807" height="181" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1613240709241" />
-    <state x="191" y="0" key="SettingsEditor" timestamp="1612951059371">
+    <state x="191" y="0" key="SettingsEditor" timestamp="1613242204405">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="191" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1612951059371" />
-    <state x="503" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612951190487">
+    <state x="191" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1613242204405" />
+    <state x="503" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613241451126">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="503" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1612951190487" />
+    <state x="503" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1613241451126" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
