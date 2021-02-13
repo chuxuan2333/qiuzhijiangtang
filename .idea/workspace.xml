@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="光遇乐谱制作">
+    <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613241381225</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="光遇乐谱制作">
+      <created>1613242214627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613242214627</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -261,10 +268,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="815" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1613240852192" />
-    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613241458510">
+    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613242212620">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613241458510" />
+    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613242212620" />
     <state x="147" y="66" width="1228" height="695" key="DiffContextDialog" timestamp="1613241451136">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
