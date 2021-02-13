@@ -15,17 +15,73 @@ def make_yuepu(*args):
     pass
 
 
-tiankongzhicheng = ['A6', 'A7', 'B1', 'A7', 'B1', 'B3', 'A7', 'A3', 'A6', 'A5', 'A6', 'B1', 'A5',
-                    'A3', 'A3', 'A4', 'A3', 'A4', 'B1', 'A3', 'B1', 'B1', 'A7', 'A4', 'A4', 'A7', 'A7',
-                    'A6', 'A7', 'B1', 'A7', 'B1', 'B3', 'A7', 'A3', 'A6', 'A5', 'A6', 'B1', 'A5',
-                    'A2', 'A3', 'A4', 'B1', 'A7', 'B1', 'B2', 'B2', 'B3', 'B1', 'B1', 'A7', 'A6', 'A6', 'A7', 'A5', 'A6',
-                    'B1', 'B2', 'B3', 'B2', 'B3', 'B5', 'B2', 'B1', 'B1', 'A7', 'B1', 'B3', 'B3',
-                    'A6', 'A7', 'B1', 'A7', 'B1', 'B2', 'B1', 'A5', 'A5', 'B4', 'B3', 'B2', 'B1', 'B3',
-                    'B3', 'B6', 'B6', 'B5', 'B5', 'B3', 'B2', 'B1', 'B2', 'B1', 'B2', 'B5', 'B3',
-                    'B3', 'B6', 'B6', 'B5', 'B5', 'B3', 'B2', 'B1', 'B2', 'B1', 'B2', 'A7', 'A6'
+# 天空之城
+tiankongzhicheng = ['A6', 'A7', 'B1', 'A7', 'B1', 'B3', 'A7',
+                    'A3', 'A6', 'A5', 'A6', 'B1', 'A5',
+                    'A3', 'A3', 'A4', 'A3', 'A4', 'B1', 'A3',
+                    'B1', 'B1', 'A7', 'A4', 'A4', 'A7', 'A7',
+                    'A6', 'A7', 'B1', 'A7', 'B1', 'B3', 'A7',
+                    'A3', 'A6', 'A5', 'A6', 'B1', 'A5',
+                    'A2', 'A3', 'A4', 'B1', 'A7', 'B1', 'B2', 'B2', 'B3', 'B1',
+                    'B1', 'A7', 'A6', 'A6', 'A7', 'A5', 'A6',
+                    'B1', 'B2', 'B3', 'B2', 'B3', 'B5', 'B2',
+                    'B1', 'B1', 'A7', 'B1', 'B3', 'B3',
+                    'A6', 'A7', 'B1', 'A7', 'B1', 'B2', 'B1', 'A5', 'A5',
+                    'B4', 'B3', 'B2', 'B1', 'B3',
+                    'B3', 'B6', 'B6', 'B5', 'B5', 'B3', 'B2', 'B1',
+                    'B2', 'B1', 'B2', 'B5', 'B3',
+                    'B3', 'B6', 'B6', 'B5', 'B5', 'B3', 'B2', 'B1',
+                    'B2', 'B1', 'B2', 'A7', 'A6'
                     ]
 
-output = ' '.join(tiankongzhicheng)
-# output = ' '.join(make_yuepu(tiankongzhicheng))
+
+'''
+# 简单的幸福副歌
+jiandandexingfu = ['A1' 'A2' 'A2' 'A4' 'A3'
+                   A3 A3 A2 A3 A6 A5
+                   A5 A5 A6 A6 A5 B1
+                   B1 B2 B1 A3 A5 A5
+                   A5 A5 A6 A6 A5 B1 A6
+                   A6 A6 A5 A5 A5 A5A3
+                   A3 A2 A1 A1 A3 A2 A3 A2
+                   A6 A5 A6 A5
+
+                   A1 A2 A2 A4 A3
+                   A3 A3 A2 A3 A6 A5
+                   A5 A5 A6 A6 A5 B1
+                   B1 B2 B1 A3 A5 A5
+                   A5 A5 A6 A6 A5 B1 A6
+                   A6 A6 A5 A5 A5 A5A3
+                   A3 A2 A1 A2
+                   —————————  — — —
+                   ]
+'''
+
+'''
+planet = [B3 B3 B2 B5
+          B1 A7 B3 A5 A6 B1 A5
+          B1 A6 A7 B1 B3 B3 B2
+          B3 B3 B2 B5
+          B1B1 A7 B3 A5 A6 B1 A5
+          B1 B4 B3 B2 B1 B3
+          B4 B4 B4 B3 B2 B1 B2 B3 B2
+          B5 B5 B5 B4 B3 B2 B1
+          B4 B4 B4 B3 B2 B1 B2 B3 B2
+          B5 B5 B5 B4 B3 B2 B1
+          B6 B5 B6 B7
+
+          B1 A7 A6 A5 A6 A5 A2 A5 A3
+          B1 A7 A6 A5 A6 B2 B3 A6A6 A5 A6
+          B1 A7 A6 A5 A6 A5 A2 A5 A3
+          B1 A7 A6 A5 A6 B2 B3 B1 B1 B1
+          B1 B2B1 B1 A7 A6 A5 B1 A5
+          B1 B2B1 B1 A7 A6 A5 B1
+          B1 B2B1 B1 A7 A6 A5 B1 A5
+          B1 B2B1 B1 A7 A6 A5 B1
+          ]
+'''
+
+# output = ' '.join(tiankongzhicheng)
+output = ' '.join(make_yuepu(tiankongzhicheng))
 
 print("天空之城:", output)
