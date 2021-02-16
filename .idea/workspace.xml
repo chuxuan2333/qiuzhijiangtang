@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="">
+    <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="光遇乐谱制作">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/MSI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/MSI.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/python-装饰器" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -235,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613242214627</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="光遇乐谱制作">
+      <created>1613242832180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613242832180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -268,10 +277,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="815" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1613240852192" />
-    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613242212620">
+    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613242849328">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613242212620" />
+    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613242849328" />
     <state x="147" y="66" width="1228" height="695" key="DiffContextDialog" timestamp="1613241451136">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -292,10 +301,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="807" height="181" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1613240709241" />
-    <state x="191" y="0" key="SettingsEditor" timestamp="1613242204405">
+    <state x="191" y="0" key="SettingsEditor" timestamp="1613243496860">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="191" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1613242204405" />
+    <state x="191" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1613243496860" />
     <state x="503" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613241451126">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
