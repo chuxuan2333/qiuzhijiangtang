@@ -6,18 +6,21 @@ with open("./files/test1.txt", 'r') as f:
     print("content1:" + content1)
     content2 = f.read()
     print("content2:" + content2)
+print('*'*40)
 
 with open('./files/test1.txt') as f:
     # 读取所有行，以列表形式保存
     cont = f.readlines()
-    print(cont)
+    print("cont:", cont)
     for c in cont:
         print('c:' + c)
+print('*'*40)
 
 with open('./files/test3.txt', 'r') as f:
     # 读取一行
     cont = f.readline()
     print('读取一行：' + cont)
+print('*'*40)
 
 with open('./files/test2.txt', 'rb') as f:
     # 以二进制形式读取文件

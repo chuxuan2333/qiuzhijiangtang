@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="光遇乐谱制作">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/MSI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/MSI.xml" afterDir="false" />
+    <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python-小例子/json_file/jack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/json_file/linda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/lambda—01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/函数参数传值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/字符串和列表转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/打印九九乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/统计字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小应用/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小应用/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-应用/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-小例子/json和字典转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-小应用/光遇乐谱制作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-应用/快捷键" beforeDir="false" afterPath="$PROJECT_DIR$/python-小应用/快捷键" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-文件操作/file-read.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-文件操作/file-read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-文件操作/files/python文件打开模式说明.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/python-文件操作/files/python文件打开模式说明.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,23 +59,27 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python-装饰器" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python-文件操作/files" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\WorkSpace\求知讲堂\python-文件操作" />
-      <recent name="F:\WorkSpace\求知讲堂\python-常见问题" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WorkSpace\求知讲堂\python-文件操作\files" />
+      <recent name="F:\WorkSpace\求知讲堂\python-应用" />
       <recent name="F:\WorkSpace\求知讲堂\python-装饰器" />
       <recent name="F:\WorkSpace\求知讲堂\python_class\files" />
       <recent name="F:\Anaconda3\envs\python35\Lib\site-packages" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WorkSpace\求知讲堂\python-小例子\json_file" />
+      <recent name="F:\WorkSpace\求知讲堂\python-文件操作" />
+      <recent name="F:\WorkSpace\求知讲堂\python-常见问题" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.光遇乐谱制作">
-    <configuration name="实例-飞机大战" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.json和字典转换">
+    <configuration name="字符串和列表转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-小例子" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_class/实例-飞机大战.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/字符串和列表转换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="光遇乐谱制作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="函数参数传值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-应用" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-小例子" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/函数参数传值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python-深浅拷贝" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="打印九九乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +129,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-常见问题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-小例子" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-常见问题/python-深浅拷贝.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/打印九九乘法表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file-read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="求知讲堂" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-文件操作/file-read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json和字典转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="求知讲堂" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-小例子" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/json和字典转换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,27 +218,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-装饰器/python-类装饰器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="python-list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="求知讲堂" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-数据结构" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-数据结构/python-list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,19 +227,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.实例-飞机大战" />
-      <item itemvalue="Python.python-深浅拷贝" />
-      <item itemvalue="Python.python-list" />
-      <item itemvalue="Python.python-类装饰器" />
-      <item itemvalue="Python.光遇乐谱制作" />
+      <item itemvalue="Python.函数参数传值" />
+      <item itemvalue="Python.打印九九乘法表" />
+      <item itemvalue="Python.字符串和列表转换" />
+      <item itemvalue="Python.json和字典转换" />
+      <item itemvalue="Python.file-read" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.光遇乐谱制作" />
-        <item itemvalue="Python.python-类装饰器" />
-        <item itemvalue="Python.python-深浅拷贝" />
-        <item itemvalue="Python.python-list" />
-        <item itemvalue="Python.实例-飞机大战" />
+        <item itemvalue="Python.json和字典转换" />
+        <item itemvalue="Python.file-read" />
+        <item itemvalue="Python.字符串和列表转换" />
+        <item itemvalue="Python.函数参数传值" />
+        <item itemvalue="Python.打印九九乘法表" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613242832180</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="光遇乐谱制作">
+      <created>1613487039234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613487039234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -262,13 +307,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="光遇乐谱制作" />
     <option name="LAST_COMMIT_MESSAGE" value="光遇乐谱制作" />
   </component>
@@ -277,34 +325,34 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="815" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1613240852192" />
-    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613242849328">
+    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613487034511">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613242849328" />
+    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613487034511" />
     <state x="147" y="66" width="1228" height="695" key="DiffContextDialog" timestamp="1613241451136">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="66" width="1228" height="695" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1613241451136" />
-    <state width="807" height="181" key="GridCell.Tab.0.bottom" timestamp="1613240709241">
+    <state width="1511" height="153" key="GridCell.Tab.0.bottom" timestamp="1613557158897">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="807" height="181" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1613240709241" />
-    <state width="807" height="181" key="GridCell.Tab.0.center" timestamp="1613240709241">
+    <state width="1511" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1613557158897" />
+    <state width="1511" height="153" key="GridCell.Tab.0.center" timestamp="1613557158896">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="807" height="181" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1613240709241" />
-    <state width="807" height="181" key="GridCell.Tab.0.left" timestamp="1613240709241">
+    <state width="1511" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1613557158896" />
+    <state width="1511" height="153" key="GridCell.Tab.0.left" timestamp="1613557158895">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="807" height="181" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1613240709241" />
-    <state width="807" height="181" key="GridCell.Tab.0.right" timestamp="1613240709241">
+    <state width="1511" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1613557158895" />
+    <state width="1511" height="153" key="GridCell.Tab.0.right" timestamp="1613557158897">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="807" height="181" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1613240709241" />
-    <state x="191" y="0" key="SettingsEditor" timestamp="1613243496860">
+    <state width="1511" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1613557158897" />
+    <state x="191" y="0" key="SettingsEditor" timestamp="1613550826728">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="191" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1613243496860" />
+    <state x="191" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1613550826728" />
     <state x="503" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613241451126">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
