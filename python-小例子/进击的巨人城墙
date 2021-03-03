@@ -1,0 +1,12 @@
+import math
+
+
+def s(r1, r2):
+    return math.pi*(r2-r1)*(r2+r1)
+
+
+# 250, 130, 100
+s1 = s(0, 250)
+s2 = s(250, 380)
+s3 = s(380, 480)
+print("s1={:.2f},s2={:.2f},s3={:.2f}".format(s1, s2, s3))

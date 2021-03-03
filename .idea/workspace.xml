@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf03fde8-8f57-43d0-84af-93933b01dcdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python-小例子/json_file/jack.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-小例子/json_file/linda.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-小例子/lambda—01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-小例子/函数参数传值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-小例子/字符串和列表转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-小例子/打印九九乘法表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-小例子/统计字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-小应用/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-小应用/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/反转整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/字典排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/折半查找.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/生成随机密码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/计算5选3排列组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-小例子/进击的巨人城墙" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/MSI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/MSI.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-应用/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-小例子/json和字典转换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-应用/光遇乐谱制作.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-小应用/光遇乐谱制作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-应用/快捷键" beforeDir="false" afterPath="$PROJECT_DIR$/python-小应用/快捷键" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-文件操作/file-read.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-文件操作/file-read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-文件操作/files/python文件打开模式说明.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/python-文件操作/files/python文件打开模式说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-小例子/json_file/linda.json" beforeDir="false" afterPath="$PROJECT_DIR$/python-小例子/json_file/linda.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_类/class-类和实例属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_类/class-类和实例属性.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +72,8 @@
       <recent name="F:\WorkSpace\求知讲堂\python-常见问题" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.json和字典转换">
-    <configuration name="字符串和列表转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.python-类装饰器">
+    <configuration name="生成随机密码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/字符串和列表转换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/生成随机密码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="函数参数传值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="计算5选3排列组合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/函数参数传值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/计算5选3排列组合.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="打印九九乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="字典排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/打印九九乘法表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/字典排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,28 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file-read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="求知讲堂" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-文件操作" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-文件操作/file-read.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="json和字典转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="反转整数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="求知讲堂" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +148,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/json和字典转换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/反转整数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进击的巨人城墙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="求知讲堂" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-小例子" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-小例子/进击的巨人城墙" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,19 +221,14 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.函数参数传值" />
-      <item itemvalue="Python.打印九九乘法表" />
-      <item itemvalue="Python.字符串和列表转换" />
-      <item itemvalue="Python.json和字典转换" />
-      <item itemvalue="Python.file-read" />
+      <item itemvalue="Python.python-类装饰器" />
+      <item itemvalue="Python.计算5选3排列组合" />
+      <item itemvalue="Python.生成随机密码" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.json和字典转换" />
-        <item itemvalue="Python.file-read" />
-        <item itemvalue="Python.字符串和列表转换" />
-        <item itemvalue="Python.函数参数传值" />
-        <item itemvalue="Python.打印九九乘法表" />
+        <item itemvalue="Python.生成随机密码" />
+        <item itemvalue="Python.计算5选3排列组合" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613487039234</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="小例子">
+      <created>1613557251450</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613557251450</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -318,37 +314,62 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="光遇乐谱制作" />
-    <option name="LAST_COMMIT_MESSAGE" value="光遇乐谱制作" />
+    <MESSAGE value="小例子" />
+    <option name="LAST_COMMIT_MESSAGE" value="小例子" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="815" y="208" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613240852192">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613681055559">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="815" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1613240852192" />
-    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613487034511">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1613681055559" />
+    <state x="757" y="208" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614009140401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613487034511" />
+    <state x="757" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1614009140401" />
+    <state x="436" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613670923796">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="436" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1613670923796" />
+    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1613557247961">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1613557247961" />
     <state x="147" y="66" width="1228" height="695" key="DiffContextDialog" timestamp="1613241451136">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="66" width="1228" height="695" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1613241451136" />
-    <state width="1511" height="153" key="GridCell.Tab.0.bottom" timestamp="1613557158897">
+    <state width="868" height="157" key="GridCell.Tab.0.bottom" timestamp="1614013355053">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1511" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1613557158897" />
-    <state width="1511" height="153" key="GridCell.Tab.0.center" timestamp="1613557158896">
+    <state width="868" height="157" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614013355053" />
+    <state width="868" height="157" key="GridCell.Tab.0.center" timestamp="1614013355053">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1511" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1613557158896" />
-    <state width="1511" height="153" key="GridCell.Tab.0.left" timestamp="1613557158895">
+    <state width="868" height="157" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1614013355053" />
+    <state width="868" height="157" key="GridCell.Tab.0.left" timestamp="1614013355052">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1511" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1613557158895" />
-    <state width="1511" height="153" key="GridCell.Tab.0.right" timestamp="1613557158897">
+    <state width="868" height="157" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1614013355052" />
+    <state width="868" height="157" key="GridCell.Tab.0.right" timestamp="1614013355053">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1511" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1613557158897" />
+    <state width="868" height="157" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1614013355053" />
+    <state width="1511" height="276" key="GridCell.Tab.1.bottom" timestamp="1614013355038">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1511" height="276" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614013355038" />
+    <state width="1511" height="276" key="GridCell.Tab.1.center" timestamp="1614013355038">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1511" height="276" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1614013355038" />
+    <state width="1511" height="276" key="GridCell.Tab.1.left" timestamp="1614013355038">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1511" height="276" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1614013355038" />
+    <state width="1511" height="276" key="GridCell.Tab.1.right" timestamp="1614013355038">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1511" height="276" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1614013355038" />
     <state x="191" y="0" key="SettingsEditor" timestamp="1613550826728">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -375,6 +396,26 @@
           <url>file://$PROJECT_DIR$/python-常见问题/python-闭包.py</url>
           <line>14</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-小例子/折半查找.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-小例子/折半查找.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-小例子/折半查找.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-小例子/折半查找.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
